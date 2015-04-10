@@ -3,7 +3,8 @@ Old 2012 URL Shortener Project
 
 This repository contains the code of an URL shortener I wrote in 2012, introduced with this blog post: https://tsarstva.bg/sh/url-shortener.
 
-Keeping it here mainly for historical purposes.
+Keeping it here mainly for historical purposes. Thus,
+**it's not even implied that this is quality software** [ :) ]
 
 To build the application, first execute these SQL queries:
 
